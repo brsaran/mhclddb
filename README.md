@@ -6,3 +6,5 @@ MHC-FIS-LdDB is a database of peptides (L. donovani proteome) categorized by the
 
 Access:<br>
 The web interface to access the dataabse can be found <a href="https://mhcfisld.biomedinformri.com/index.php">here</a>
+
+Cite: Saravanan V. (2022). "Harnessing Fuzzy Rule Based System for Screening Major Histocompatibility Complex Class I Peptide Epitopes from the Whole Proteome: An Implementation on the Proteome of Leishmania donovani", Journal of Computational Biology (Accepted). DOI: 10.1089/cmb.2021.0464.
